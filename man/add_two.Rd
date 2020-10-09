@@ -19,5 +19,4 @@ Title
 }
 \examples{
 sum(1, 2)
-
 }
