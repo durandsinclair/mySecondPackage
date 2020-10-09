@@ -1,0 +1,17 @@
+Package: mySecondPackage
+Title: Demonstration Package That Adds Two Numbers Together
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Durand",
+           family = "Sinclair",
+           role = c("aut", "cre"),
+           email = "durandsinclair@yahoo.com.au",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package is just a demonstration of how to create packages. It has a single function that adds two numbers together.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
