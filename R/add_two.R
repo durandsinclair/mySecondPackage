@@ -8,6 +8,7 @@
 #'
 #' @examples
 #' sum(1, 2)
+#' sum(0, 4)
 
 add_two <- function(a, b) {
     sum(a, b)
